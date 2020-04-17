@@ -1,0 +1,11 @@
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\obj\Debug\netcoreapp3.1\Mini Game Engine.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\obj\Debug\netcoreapp3.1\Mini Game Engine.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\obj\Debug\netcoreapp3.1\Mini Game Engine.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\bin\Debug\netcoreapp3.1\Mini Game Engine.exe
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\bin\Debug\netcoreapp3.1\Mini Game Engine.deps.json
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\bin\Debug\netcoreapp3.1\Mini Game Engine.runtimeconfig.json
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\bin\Debug\netcoreapp3.1\Mini Game Engine.runtimeconfig.dev.json
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\bin\Debug\netcoreapp3.1\Mini Game Engine.dll
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\bin\Debug\netcoreapp3.1\Mini Game Engine.pdb
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\obj\Debug\netcoreapp3.1\Mini Game Engine.dll
+C:\Users\Martin\Documents\GitHub\Mini-Game-Engine\Mini Game Engine\Mini Game Engine\obj\Debug\netcoreapp3.1\Mini Game Engine.pdb
